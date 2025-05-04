@@ -1,0 +1,15 @@
+p{
+    
+    text-align: justify;
+    border: solid 5px green;
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+span{ color: blue; border: solid 5px blue;}
+.p1{ background-color: aquamarine;}
+.p2{ background-color: rgb(18, 59, 243);}
+.p3{ background-color: rgb(231, 79, 19);}
